@@ -1,0 +1,9 @@
+textareacenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+btn_custom {
+    font-size: 100px;
+}
